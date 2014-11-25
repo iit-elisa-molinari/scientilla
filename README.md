@@ -4,7 +4,7 @@
 
 #####*The first Independent Scientific Register for Organizations and Researchers*
 
-SCIENTILLA is: a free network for exchanging bibliographic metadata and a software in order to access to this network.
+**SCIENTILLA** is: a free network for exchanging bibliographic metadata and a software in order to access to this network.
 
 The network is designed for organizations and researchers to manage, share and promote metadata relating to their scientific publications. Data can be completely shared by all the members of the network and they will always be open.
 
@@ -44,6 +44,7 @@ The system allows each installation to collect and process the data shared with/
 
 The system allows you to configure the interface with other data resources that share information about scientific production metadata in order to allow the user to search for references and import them.
 In this way you can quickly define and complete your references list.
+
 
 
 ## IMPORTANT
